@@ -1,0 +1,15 @@
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/bin/Debug/net9.0/MultiFunctionApp
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/bin/Debug/net9.0/MultiFunctionApp.deps.json
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/bin/Debug/net9.0/MultiFunctionApp.runtimeconfig.json
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/bin/Debug/net9.0/MultiFunctionApp.dll
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/bin/Debug/net9.0/MultiFunctionApp.pdb
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.AssemblyInfoInputs.cache
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.AssemblyInfo.cs
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.csproj.CoreCompileInputs.cache
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.sourcelink.json
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.dll
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/refint/MultiFunctionApp.dll
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.pdb
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/MultiFunctionApp.genruntimeconfig.cache
+/Users/gaofuquan/Documents/C#/MultiFunctionApp/obj/Debug/net9.0/ref/MultiFunctionApp.dll
